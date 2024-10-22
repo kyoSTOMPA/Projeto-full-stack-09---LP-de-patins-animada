@@ -84,9 +84,7 @@ section.hero {
     display: block;
     width: 100%;
     max-width: 30.5rem;
-    height: 30.5rem;
-
-    border: 2px deeppink solid; 
+    height: 30.5rem;    
 
     & .content {      
       width: 100%;
